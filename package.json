@@ -9,12 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/evilpaper/drift-cackle-scream.git"
+    "url": "https://github.com/evilpaper/drift-cackle-scream.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/evilpaper/drift-cackle-scream/issues"
   },
-  "homepage": "https://github.com/evilpaper/drift-cackle-scream#readme"
+  "homepage": "https://github.com/evilpaper/drift-cackle-scream#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
