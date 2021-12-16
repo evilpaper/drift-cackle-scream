@@ -1,0 +1,20 @@
+{
+  "name": "drift-cackle-scream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/evilpaper/drift-cackle-scream.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evilpaper/drift-cackle-scream/issues"
+  },
+  "homepage": "https://github.com/evilpaper/drift-cackle-scream#readme"
+}
