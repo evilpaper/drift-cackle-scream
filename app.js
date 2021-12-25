@@ -4,6 +4,8 @@ const app = express();
 
 app.listen(3000);
 
+console.log("App is running and listen to port 3000...");
+
 app.get("/", function (req, res) {
   res.sendFile("./views/index.html", { root: __dirname });
 });
